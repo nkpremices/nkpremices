@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/47884449/136206018-6bbc892b-a845-4bce-97c0-488bc99281db.png" alt="Pineapple" style="" width="200">
-
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is ***Prémices Kamasuwa***. <br>
