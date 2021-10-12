@@ -90,6 +90,7 @@ visualstudiocode
 - I’m currently working on [tramedix.de](https://tramedix.de)
 - I'm currently leveraging my knowledge & experience on blockchain technologies.
 - I'm currently learning Golang actively as I would like to make it part of my primary language-stack
+- I'm currently more active on [gitLab](https://gitlab.com/nkpremices)
 - Let's get in touch: [nkpremices.com/contact](https://nkpremices.com/contact)
 
 ![Profile views](https://gpvc.arturio.dev/nkpremices)
