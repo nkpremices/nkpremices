@@ -50,9 +50,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <br>
 <br>
 
-- I’m currently working on [tramedix.de](https://tramedix.de)
+- I’m currently working on [tramedix.de](https://tramedix.de) and [molahealth.com](https://www.molahealth.com/)
 - I'm currently leveraging my knowledge & experience on blockchain technologies.
-- I'm currently learning Golang actively as I would like to make it part of my primary language-stack
 - I'm currently more active on [gitLab](https://gitlab.com/nkpremices)
 - Let's get in touch: [nkpremices.com/contact](https://nkpremices.com/contact)
 
