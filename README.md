@@ -12,11 +12,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/nkpremices/nkpremices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkpremices" />
 </a>
-<br>
-<br>
-<a href="https://github.com/nkpremices/nkpremices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nkpremices" />
-</a>
 
 <!-- links to social media icons -->
 
