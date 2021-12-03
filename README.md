@@ -7,12 +7,6 @@ I'm a Fullstack software engineer currently employed at [DEJ Technology GmbH](ht
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [nkpremices.com/tag/blog](https://nkpremices.com/tag/blog).
 
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/nkpremices/nkpremices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkpremices" />
-</a>
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
