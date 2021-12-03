@@ -41,7 +41,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 - I’m currently working on [leogistics.com](https://leogistics.com/en/) and [molahealth.com](https://www.molahealth.com/)
 - I'm currently leveraging my knowledge & experience on blockchain technologies.
-- I'm currently more active on [gitLab](https://gitlab.com/nkpremices)
+- I'm also quite active on [gitLab](https://gitlab.com/nkpremices)
 - Let's get in touch: [nkpremices.com/contact](https://nkpremices.com/contact)
 
 ![Profile views](https://gpvc.arturio.dev/nkpremices)
