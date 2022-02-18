@@ -40,7 +40,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <br>
 
 - I’m currently working on [leogistics.com](https://leogistics.com/en/) and [molahealth.com](https://www.molahealth.com/)
-- I'm currently building amzing blockchain solutions using Solidity, Web3.js, Truffle, Go-Ethereum, OpenZeppelin, Substrate, etc.
+- I'm currently actively working on building a blockhain solution for supply chain networks.
 - I'm also quite active on [gitLab](https://gitlab.com/nkpremices)
 - Let's get in touch: [nkpremices.com/contact](https://nkpremices.com/contact)
 
