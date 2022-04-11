@@ -39,9 +39,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <br>
 <br>
 
-- I’m currently working on [leogistics.com](https://leogistics.com/en/) and [molahealth.com](https://www.molahealth.com/)
-- I'm currently actively working on building a blockhain solution for supply chain networks.
-- I'm also quite active on [gitLab](https://gitlab.com/nkpremices)
+- I’m currently working on [kurabu.com](https://www.kurabu.com/) and [molahealth.com](https://www.molahealth.com/)
+- I'm actively working on building a blockhain solution for supply chain networks.
 - Let's get in touch: [nkpremices.com/contact](https://nkpremices.com/contact)
 
 ![Profile views](https://gpvc.arturio.dev/nkpremices)
