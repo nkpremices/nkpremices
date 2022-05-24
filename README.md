@@ -40,7 +40,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <br>
 
 - I’m currently working on [kurabu.com](https://www.kurabu.com/) and [molahealth.com](https://www.molahealth.com/)
-- I'm actively working on building a blockhain solution for supply chain networks.
 - Let's get in touch: [nkpremices.com/contact](https://nkpremices.com/contact)
 
 ![Profile views](https://gpvc.arturio.dev/nkpremices)
