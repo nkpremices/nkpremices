@@ -1,7 +1,7 @@
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>
 
 My name is ***Prémices Kamasuwa***. <br>
-I'm a Fullstack software engineer currently employed at [Codeshift](https://codeshift.com/). <br> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm a Fullstack software engineer currently employed at [Codeshift](https://codeshift.co/). <br> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
