@@ -36,9 +36,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-<br>
-<br>
-
 - I’m currently working on [kurabu.com](https://www.kurabu.com/) and [molahealth.com](https://www.molahealth.com/)
 - Let's get in touch: [nkpremices.com/contact](https://nkpremices.com/contact)
 
