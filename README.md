@@ -36,8 +36,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-- I’m currently working on [kurabu.com](https://www.kurabu.com/) and [molahealth.com](https://www.molahealth.com/)
-- Let's get in touch: [nkpremices.com/contact](https://nkpremices.com/contact)
+- I'm currently employed at [Codeshift.co](https://www.codeshift.co/) as a Fullstack software engineer and I'm open to new offers. <br> 
+- I’m currently working on [govolunteer.com](https://govolunteer.com/), [gonature.de](https://gonature.de/) and [vettrust.ch](https://vettrust.ch/)
+
+<br>
+
+Take a look at a more detailed description of my work experience and projects here: [nkpremices.com/resume](https://nkpremices.com/resume/) 
+
+Let's get in touch: [nkpremices.com/contact](https://nkpremices.com/contact/)
 
 ![Profile views](https://gpvc.arturio.dev/nkpremices)
 
