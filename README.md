@@ -5,7 +5,7 @@ I'm a Fullstack software engineer currently employed at [Codeshift](https://code
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [nkpremices.com/tag/blog](https://nkpremices.com/tag/blog).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [nkpremices.com](https://nkpremices.com).
 
 <!-- links to social media icons -->
 
