@@ -1,7 +1,7 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>
 
 My name is ***Prémices Kamasuwa***. <br>
-I'm a Fullstack software engineer currently employed at [Codeshift](https://codeshift.co/). <br> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm a Fullstack software engineer with more than 4 years of experience working remotely in distributed teams. <!--  currently employed at [Codeshift](https://codeshift.co/). --> <br> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
@@ -36,8 +36,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-- I'm currently employed at [Codeshift.co](https://www.codeshift.co/) as a Fullstack software engineer and I'm open to new offers. <br> 
-- I’m currently working on [govolunteer.com](https://govolunteer.com/), [gonature.de](https://gonature.de/) and [vettrust.ch](https://vettrust.ch/)
+<!--  - I'm currently employed at [Codeshift.co](https://www.codeshift.co/) as a Fullstack software engineer and I'm open to new offers. <br> -->
+<!--  - I’m currently working on [govolunteer.com](https://govolunteer.com/), [gonature.de](https://gonature.de/) and [vettrust.ch](https://vettrust.ch/)-->
 
 <br>
 
