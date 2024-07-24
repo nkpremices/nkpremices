@@ -1,7 +1,14 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>
 
 My name is ***Prémices Kamasuwa***. <br>
-I'm a Fullstack software engineer with over 5 years of experience working remotely in distributed teams. <!--  currently employed at [Codeshift](https://codeshift.co/). --> <br> You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+I'm a highly experienced Software Engineer with over 6 years of experience working remotely in distributed teams.<br>
+I'm passionate about building large distributed systems and I've been lucky to work on quite a number of them.<br>
+I'm versatile and comfortable to work on a variable set of stacks and technologies. <br>
+
+I'm currently employed at [Sovtech](https://www.sovtech.com/) as a Senior Software Engineer. <br> 
+
+You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
