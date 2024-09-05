@@ -6,8 +6,6 @@ I'm a highly experienced Software Engineer with over 6 years of experience worki
 I'm passionate about building large distributed systems and I've been lucky to work on quite a number of them.<br>
 I'm versatile and comfortable to work on a variable set of stacks and technologies. <br>
 
-I'm currently employed at [Sovtech](https://www.sovtech.com/) as a Senior Software Engineer. <br> 
-
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
