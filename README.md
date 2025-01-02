@@ -2,7 +2,7 @@
 
 My name is ***Prémices Kamasuwa***. <br>
 
-I'm a highly experienced Software Engineer with over 6 years of experience working remotely in distributed teams.<br>
+I'm a highly experienced Software Engineer with over 7 years of experience working remotely in distributed teams.<br>
 I'm passionate about building large distributed systems and I've been lucky to work on quite a number of them.<br>
 I'm versatile and comfortable to work on a variable set of stacks and technologies. <br>
 
